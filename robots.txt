@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shohhooru.arthurmasson.xyz/sitemap.xml
